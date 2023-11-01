@@ -1,6 +1,6 @@
 ![logo](_media/rikka.jpg)
 
- ## Cinyan10
+## Cinyan10
 
 > Nothing here
 
